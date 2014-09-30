@@ -25,8 +25,7 @@ sub new {
 	print "protocal:${protocal}://$host"."\n";
 	$user_agent->proxy($protocal,"${protocal}://$host");
 	$user_agent->conn_cache(LWP::ConnCache->new);
-	$user_agent->default_header('Accept-Encoding'=>'deflate, gzip, x-gzip, identity, *;q=0');
-	#$user_agent->default_header('Host'=>'s.share.baidu.com');
+	$user_agent->default_header('Accept-Encoding'=>'gzip, deflate');
 	$user_agent->default_header('Accept-Language'=>'zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3');
 	$user_agent->default_header('Accept'=>'image/gif, image/jpeg, text/html,application/xhtml+xml,application/xml,*/*;q=0.9,*/*;q=0.8');
 
@@ -47,16 +46,31 @@ sub clickStream {
 	my $browser = $self->{browser};
 	my $urlList = $self->{urlList};
 	my $hostname = $self->{hostname};
-	my $prevUrl="";
-	
+	my $firstUrl = &randomeUrl($urlList);
+	my $ref="";
+	if( &genRandom(2) == 1 ){
+		$ref =  $self->{ref360};
+	}else{
+		$ref = $self->{refbd};
+	}
+	my $kw = $urlList->{$firstUrl};
+	my $referer = &refUrl($ref,$kw);
+
+	#access ref first
+	$browser->get($referer);
+	# do the real access
+	print "host: ${hostname}"."\n";
+	print Dumper($firstUrl);
+#the fist time refer from 360 search or jingyan search 
+	my $response = $browser->get($firstUrl, 'Referer' => $referer);
+#print $response->{_content};
  	my $docSize = keys %{$urlList};
 	while( $docSize > 0 ){
 		$docSize -= 1;
 		my $curUrl = &randomeUrl($urlList);
-		if( $curUrl eq $prevUrl ){
+		if( $curUrl eq $firstUrl ){
 			next;
 		}
-		my $referer = $urlList->{$curUrl};
 		#90% probability click this article
 		if( &genRandom(100) < 60 ){
 		#sleep 0-6 min
@@ -64,10 +78,9 @@ sub clickStream {
 		print "${hostname} sleep $sleepTime secds ..."."\n";
 		sleep( $sleepTime );
 		#get url
-		my $response = $browser->get($curUrl, 'Referer' => $referer);
+		my $response = $browser->get($curUrl, 'Referer' => $firstUrl);
 		print "host: ${hostname}"."\n";
 		print Dumper($curUrl);
-		$prevUrl = $curUrl;
 		}
 	}
 }

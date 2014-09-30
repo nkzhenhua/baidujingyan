@@ -7,12 +7,12 @@
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 <meta charset="utf-8" />
 <title>
-亚马逊z秒杀 技巧_百度经验</title>
+不用开店在淘宝卖自己的二手闲置产品_百度经验</title>
 
-<meta name="keywords" content='亚马逊z秒杀 技巧,亚马逊秒杀,网购,购物,生活/家居'/>
+<meta name="keywords" content='不用开店在淘宝卖自己的二手闲置产品,开店淘宝闲置,网购,购物,生活/家居'/>
 
 
-<meta name="description" content="亚马逊z秒杀 技巧,大家常常去各个电商购物，也有很多电商有很多秒杀频道，我们来看看亚马逊的秒杀"/>
+<meta name="description" content="不用开店在淘宝卖自己的二手闲置产品,很多人也想开个淘宝店吧，可是，开淘宝店还是比较繁琐的。有点甚至只是想卖卖自己的闲置物品，其实不用开淘宝店，只需要有淘宝taoao账户，平时用淘宝taoao账户购物，就可以在淘宝上卖自己的闲置物品。本文介绍新版淘宝taoao宝贝管理页面。"/>
 
 
 
@@ -40,7 +40,7 @@
 	}
 </script>
 
-<link rel="stylesheet" type="text/css" href="http://exp.bdstatic.com/static/common/pkg/common_13ba950.css"/><link rel="stylesheet" type="text/css" href="http://exp.bdstatic.com/static/article/pkg/article_ff6ec7b.css"/></head>
+<link rel="stylesheet" type="text/css" href="http://exp.bdstatic.com/static/common/pkg/common_13ba950.css"/><link rel="stylesheet" type="text/css" href="http://exp.bdstatic.com/static/article/pkg/article_ff6ec7b.css"/><link rel="stylesheet" type="text/css" href="http://exp.bdstatic.com/static/activity/widget/ui/redbox/redbox_fd81298.css"/></head>
 <script>PDC.mark("ht");</script>
 <body>
 
@@ -166,32 +166,36 @@
 <div class="breadcrumb" id="breadcrumb">
 <div class="bread-wrap" id="bread-wrap">
 <a href="http://jingyan.baidu.com">百度经验</a>&nbsp;&gt;&nbsp;<a href="/list/50">生活/家居</a>&nbsp;&gt;&nbsp;<a href="/list/56">购物</a>&nbsp;&gt;&nbsp;网购
-<p class="share-text">分享有回报：<a href="http://jingyan.baidu.com/user/income">昨日最高收入111元</a><span class="ico-money"></span></p>
+<p class="share-text">分享有回报：<a href="http://jingyan.baidu.com/user/income">昨日最高收入91元</a><span class="ico-money"></span></p>
 </div>
 </div>
 <div class="content-container clearfix">
 <div class="main-content" id="main-content">
 <article id="exp-article" class="exp-article">
 <div class="exp-title clearfix">
-<h1 title="亚马逊z秒杀 技巧">亚马逊z秒杀 技巧</h1>
+<h1 title="不用开店在淘宝卖自己的二手闲置产品">不用开店在淘宝卖自己的二手闲置产品</h1>
 <ul class="exp-info">
 <li>
 <span class="ico-ori"></span>
 </li>
 <li class="blank">|</li>
 <li>
-浏览：<span class="views">2</span>
+浏览：<span class="views">0</span>
 </li>
 <li class="blank">|</li>
-<li>更新：<time>2014-09-13 03:42</time>
+<li>更新：<time>2014-09-16 00:12</time>
+</li>
+<li class="blank">|</li>
+<li>标签：<span class="exp-tag">
+<a href="/tag/642" target="_blank">淘宝</a>&nbsp;<a href="/tag/2747" target="_blank">开店</a>&nbsp;</span>
 </li>
 </ul></div>
 <div class="wgt-thumbs clearfix" alog-group="wgt-thumbs">
 <ul>
 <li>
 <div class="zoom-wrap">
-<a href="/album/09ea3ede3a2797c0afde3941.html?picindex=1">
-<img class="lazy-load-img" alt="亚马逊z秒杀 技巧" data-src="http://g.hiphotos.baidu.com/exp/whcrop=92,69/sign=36599a3196cad1c8d0eeaa65104e5a30/cc11728b4710b912ceeb7ce0c0fdfc0392452281.jpg" />
+<a href="/album/eae07827847cc31fed54857d.html?picindex=1">
+<img class="lazy-load-img" alt="不用开店在淘宝卖自己的二手闲置产品" data-src="http://c.hiphotos.baidu.com/exp/whcrop=92,69/sign=300d9be9f1d3572c66b7ca9ee5635e1e/58ee3d6d55fbb2fb79ca94124c4a20a44723dcc9.jpg" />
 </a>
 <span class="shdow"></span>
 <span class="step">1</span>
@@ -199,8 +203,8 @@
 </li>
 <li>
 <div class="zoom-wrap">
-<a href="/album/09ea3ede3a2797c0afde3941.html?picindex=2">
-<img class="lazy-load-img" alt="亚马逊z秒杀 技巧" data-src="http://d.hiphotos.baidu.com/exp/whcrop=92,69/sign=99674d31bd096b63814c08126343ba7d/d52a2834349b033bc89476c416ce36d3d539bd94.jpg" />
+<a href="/album/eae07827847cc31fed54857d.html?picindex=2">
+<img class="lazy-load-img" alt="不用开店在淘宝卖自己的二手闲置产品" data-src="http://b.hiphotos.baidu.com/exp/whcrop=92,69/sign=a2da12f4b44543a9f54eac8e7167b7bb/b151f8198618367acb77b3dd2d738bd4b31ce530.jpg" />
 </a>
 <span class="shdow"></span>
 <span class="step">2</span>
@@ -208,8 +212,8 @@
 </li>
 <li>
 <div class="zoom-wrap">
-<a href="/album/09ea3ede3a2797c0afde3941.html?picindex=3">
-<img class="lazy-load-img" alt="亚马逊z秒杀 技巧" data-src="http://h.hiphotos.baidu.com/exp/whcrop=92,69/sign=7fd884e99c3df8dca668d9d3a2614fb2/d788d43f8794a4c272096d350df41bd5ad6e3981.jpg" />
+<a href="/album/eae07827847cc31fed54857d.html?picindex=3">
+<img class="lazy-load-img" alt="不用开店在淘宝卖自己的二手闲置产品" data-src="http://c.hiphotos.baidu.com/exp/whcrop=92,69/sign=200c0e33928fa0ec7f92324f49e764d7/472309f79052982230d2f5c3d4ca7bcb0b46d4c9.jpg" />
 </a>
 <span class="shdow"></span>
 <span class="step">3</span>
@@ -217,8 +221,8 @@
 </li>
 <li>
 <div class="zoom-wrap">
-<a href="/album/09ea3ede3a2797c0afde3941.html?picindex=4">
-<img class="lazy-load-img" alt="亚马逊z秒杀 技巧" data-src="http://e.hiphotos.baidu.com/exp/whcrop=92,69/sign=663e01276863f6241c086f41e834d6c1/2934349b033b5bb55dcbaae035d3d539b600bc94.jpg" />
+<a href="/album/eae07827847cc31fed54857d.html?picindex=4">
+<img class="lazy-load-img" alt="不用开店在淘宝卖自己的二手闲置产品" data-src="http://c.hiphotos.baidu.com/exp/whcrop=92,69/sign=a4dbcf4ad9b44aed591be8a6dc6cba38/e824b899a9014c084cc5e4a5097b02087bf4f430.jpg" />
 </a>
 <span class="shdow"></span>
 <span class="step">4</span>
@@ -226,8 +230,8 @@
 </li>
 <li>
 <div class="zoom-wrap">
-<a href="/album/09ea3ede3a2797c0afde3941.html?picindex=5">
-<img class="lazy-load-img" alt="亚马逊z秒杀 技巧" data-src="http://d.hiphotos.baidu.com/exp/whcrop=92,69/sign=d8ea432d9145d688a357e4e6cbb24027/38dbb6fd5266d01612331436942bd40735fa3581.jpg" />
+<a href="/album/eae07827847cc31fed54857d.html?picindex=5">
+<img class="lazy-load-img" alt="不用开店在淘宝卖自己的二手闲置产品" data-src="http://d.hiphotos.baidu.com/exp/whcrop=92,69/sign=c38e6112710e0cf3a0a218b96536cf26/1b4c510fd9f9d72a3385dc1dd72a2834359bbbc9.jpg" />
 </a>
 <span class="shdow"></span>
 <span class="step">5</span>
@@ -235,22 +239,22 @@
 </li>
 <li>
 <div class="zoom-wrap">
-<a href="/album/09ea3ede3a2797c0afde3941.html?picindex=6">
-<img class="lazy-load-img" alt="亚马逊z秒杀 技巧" data-src="http://c.hiphotos.baidu.com/exp/whcrop=92,69/sign=1d6554d6194c510fae91b4580f291814/37d3d539b6003af3a0a6567e362ac65c1038b694.jpg" />
+<a href="/album/eae07827847cc31fed54857d.html?picindex=6">
+<img class="lazy-load-img" alt="不用开店在淘宝卖自己的二手闲置产品" data-src="http://f.hiphotos.baidu.com/exp/whcrop=92,69/sign=27d2f5c3d4ca7bcb7d2e916dd179565a/d8f9d72a6059252d81f6d104379b033b5ab5b9c9.jpg" />
 </a>
 <span class="shdow"></span>
 <span class="step">6</span>
 </div>
 </li>
 </ul>
-<a class="step-read" href="/album/09ea3ede3a2797c0afde3941.html">分步阅读<span></span></a>
+<a class="step-read" href="/album/eae07827847cc31fed54857d.html">分步阅读<span></span></a>
 </div>
 <div alog-group="exp-content" class="exp-content format-exp" id="format-exp">
 <div class="exp-content-block">
 <div class="exp-content-body exp-brief-step">
 <div class="exp-content-listblock">
 <div class="content-listblock-text">
-<p>大家常常去各个电商购物，也有很多电商有很多秒杀频道，我们来看看亚马逊的秒杀</p>
+<p>很多人也想开个淘宝店吧，可是，开淘宝店还是比较繁琐的。有点甚至只是想卖卖自己的闲置物品，其实不用开淘宝店，只需要有淘宝taobao账户，平时用淘宝taobao账户购物，就可以在淘宝上卖自己的闲置物品。本文介绍新版淘宝taobao宝贝管理页面。</p>
 </div>
 </div>
 </div>
@@ -264,7 +268,7 @@
 <ul class="exp-content-unorderlist ">
 <li class="exp-content-list list-item-1">
 <div class="content-list-text">
-网络
+淘宝帐号
 </div>
 </li>
 </ul>
@@ -280,12 +284,12 @@
 <li class="exp-content-list list-item-1">
 <div class="list-icon">1</div>
 <div class="content-list-text">
-<p>首先登陆亚马逊网站，我们可以用他的短域名，很方便。</p>
+<p>登录淘宝帐号</p>
 </div>
 <div class="content-list-media">
 <div class="content-list-image clearfix">
-<a class="exp-image-wraper"  href="/album/09ea3ede3a2797c0afde3941.html?picindex=1" target="_self">
-<img class="exp-image-default lazy-load-img" alt="亚马逊z秒杀 技巧" data-src="http://g.hiphotos.baidu.com/exp/w=500/sign=58c8329fc81349547e1ee864664e92dd/cc11728b4710b912ceeb7ce0c0fdfc0392452281.jpg" />
+<a class="exp-image-wraper"  href="/album/eae07827847cc31fed54857d.html?picindex=1" target="_self">
+<img class="exp-image-default lazy-load-img" alt="不用开店在淘宝卖自己的二手闲置产品" data-src="http://c.hiphotos.baidu.com/exp/w=500/sign=c2c57f28357adab43dd01b43bbd5b36b/58ee3d6d55fbb2fb79ca94124c4a20a44723dcc9.jpg" />
 <span class="exp-album-enter-mask"></span><span class="enter-step-btn">步骤阅读</span>
 </a>
 </div>
@@ -294,12 +298,12 @@
 <li class="exp-content-list list-item-2">
 <div class="list-icon">2</div>
 <div class="content-list-text">
-<p>点击 图中的z秒杀，进入秒杀页面</p><p>上面的2个是最热门的秒杀，记住，只是最热门罗，下面还有很多秒杀，别错过</p>
+<p>卖家中心，出售中的宝贝</p>
 </div>
 <div class="content-list-media">
 <div class="content-list-image clearfix">
-<a class="exp-image-wraper"  href="/album/09ea3ede3a2797c0afde3941.html?picindex=2" target="_self">
-<img class="exp-image-default lazy-load-img" alt="亚马逊z秒杀 技巧" data-src="http://d.hiphotos.baidu.com/exp/w=500/sign=1932dc0961d0f703e6b295dc38fa5148/d52a2834349b033bc89476c416ce36d3d539bd94.jpg" />
+<a class="exp-image-wraper"  href="/album/eae07827847cc31fed54857d.html?picindex=2" target="_self">
+<img class="exp-image-default lazy-load-img" alt="不用开店在淘宝卖自己的二手闲置产品" data-src="http://b.hiphotos.baidu.com/exp/w=500/sign=24391ffd78899e51788e3a1472a6d990/b151f8198618367acb77b3dd2d738bd4b31ce530.jpg" />
 <span class="exp-album-enter-mask"></span><span class="enter-step-btn">步骤阅读</span>
 </a>
 </div>
@@ -308,12 +312,12 @@
 <li class="exp-content-list list-item-3">
 <div class="list-icon">3</div>
 <div class="content-list-text">
-<p>下面的时时z秒杀也有很多秒杀哦，点击全部分类，我们可以分类别来查看秒杀产品</p><p>手机通讯类的所有秒杀</p>
+<p>新版宝贝管理</p>
 </div>
 <div class="content-list-media">
 <div class="content-list-image clearfix">
-<a class="exp-image-wraper"  href="/album/09ea3ede3a2797c0afde3941.html?picindex=3" target="_self">
-<img class="exp-image-default lazy-load-img" alt="亚马逊z秒杀 技巧" data-src="http://h.hiphotos.baidu.com/exp/w=500/sign=bcc923acd258ccbf1bbcb53a29d8bcd4/d788d43f8794a4c272096d350df41bd5ad6e3981.jpg" />
+<a class="exp-image-wraper"  href="/album/eae07827847cc31fed54857d.html?picindex=3" target="_self">
+<img class="exp-image-default lazy-load-img" alt="不用开店在淘宝卖自己的二手闲置产品" data-src="http://c.hiphotos.baidu.com/exp/w=500/sign=c5dd58bb84d6277fe912323818391f63/472309f79052982230d2f5c3d4ca7bcb0b46d4c9.jpg" />
 <span class="exp-album-enter-mask"></span><span class="enter-step-btn">步骤阅读</span>
 </a>
 </div>
@@ -322,12 +326,12 @@
 <li class="exp-content-list list-item-4">
 <div class="list-icon">4</div>
 <div class="content-list-text">
-<p>个护健康类秒杀</p>
+<p>点发布宝贝</p>
 </div>
 <div class="content-list-media">
 <div class="content-list-image clearfix">
-<a class="exp-image-wraper"  href="/album/09ea3ede3a2797c0afde3941.html?picindex=4" target="_self">
-<img class="exp-image-default lazy-load-img" alt="亚马逊z秒杀 技巧" data-src="http://e.hiphotos.baidu.com/exp/w=500/sign=f706ddfef403918fd7d13dca613d264b/2934349b033b5bb55dcbaae035d3d539b600bc94.jpg" />
+<a class="exp-image-wraper"  href="/album/eae07827847cc31fed54857d.html?picindex=4" target="_self">
+<img class="exp-image-default lazy-load-img" alt="不用开店在淘宝卖自己的二手闲置产品" data-src="http://c.hiphotos.baidu.com/exp/w=500/sign=d92e5254004f78f0800b9af349300a83/e824b899a9014c084cc5e4a5097b02087bf4f430.jpg" />
 <span class="exp-album-enter-mask"></span><span class="enter-step-btn">步骤阅读</span>
 </a>
 </div>
@@ -336,12 +340,12 @@
 <li class="exp-content-list list-item-5">
 <div class="list-icon">5</div>
 <div class="content-list-text">
-<p>有的是整点才开始的哦，注意到点开抢</p>
+<p>呵呵，填写你的宝贝信息吧。尽可能的详细，和多点图片哦</p>
 </div>
 <div class="content-list-media">
 <div class="content-list-image clearfix">
-<a class="exp-image-wraper"  href="/album/09ea3ede3a2797c0afde3941.html?picindex=5" target="_self">
-<img class="exp-image-default lazy-load-img" alt="亚马逊z秒杀 技巧" data-src="http://d.hiphotos.baidu.com/exp/w=500/sign=b3c442314234970a4773102fa5cad1c0/38dbb6fd5266d01612331436942bd40735fa3581.jpg" />
+<a class="exp-image-wraper"  href="/album/eae07827847cc31fed54857d.html?picindex=5" target="_self">
+<img class="exp-image-default lazy-load-img" alt="不用开店在淘宝卖自己的二手闲置产品" data-src="http://d.hiphotos.baidu.com/exp/w=500/sign=590d9be9f1d3572c66e29cdcba126352/1b4c510fd9f9d72a3385dc1dd72a2834359bbbc9.jpg" />
 <span class="exp-album-enter-mask"></span><span class="enter-step-btn">步骤阅读</span>
 </a>
 </div>
@@ -350,12 +354,12 @@
 <li class="exp-content-list list-item-6">
 <div class="list-icon">6</div>
 <div class="content-list-text">
-<p>左右的箭头还是可以点击的，浏览更多秒杀</p>
+<p>填写完宝贝描述，就可以点击发布了。</p>
 </div>
 <div class="content-list-media">
 <div class="content-list-image clearfix">
-<a class="exp-image-wraper"  href="/album/09ea3ede3a2797c0afde3941.html?picindex=6" target="_self">
-<img class="exp-image-default lazy-load-img" alt="亚马逊z秒杀 技巧" data-src="http://c.hiphotos.baidu.com/exp/w=500/sign=cb1c99b95aee3d6d22c687cb73166d41/37d3d539b6003af3a0a6567e362ac65c1038b694.jpg" />
+<a class="exp-image-wraper"  href="/album/eae07827847cc31fed54857d.html?picindex=6" target="_self">
+<img class="exp-image-default lazy-load-img" alt="不用开店在淘宝卖自己的二手闲置产品" data-src="http://f.hiphotos.baidu.com/exp/w=500/sign=a70fae1c12dfa9ecfd2e561752d1f754/d8f9d72a6059252d81f6d104379b033b5ab5b9c9.jpg" />
 <span class="exp-album-enter-mask"></span><span class="enter-step-btn">步骤阅读</span>
 </a>
 </div>
@@ -364,25 +368,10 @@
 <li class="exp-content-list list-item-7">
 <div class="list-icon">7</div>
 <div class="content-list-text">
-<p>怎么样，秒杀产品还是蛮多的吧</p>
+<p>等待淘宝给你带来流量吧</p>
 </div>
 <div class="last-item"><span class="last-item-end">END</span></div></li>
 </ol>
-</div>
-</div>
-<div class="exp-content-block">
-<h2 class="exp-content-head">
-<a href="javascript:;" name="section-4"></a>
-注意事项
-</h2>
-<div class="exp-content-body">
-<ul class="exp-content-unorderlist ">
-<li class="exp-content-list list-item-1">
-<div class="content-list-text">
-晚上10:00到早上8:00是不能秒杀的
-</div>
-</li>
-</ul>
 </div>
 </div>
 <script>window.PDC && PDC.first_screen && PDC.first_screen();</script>
@@ -417,12 +406,14 @@
 <a href="/tag/578" target="_blank">保养</a>
 <a href="/tag/1638" target="_blank">装修</a>
 <a href="/tag/4134" target="_blank">狗狗</a>
+<a href="/tag/642" target="_blank">淘宝</a>
+<a href="/tag/2747" target="_blank">开店</a>
 </div>
 <script src="http://s1.bdstatic.com/r/www/cache/ecom/esl/1-4-2/esl.js" type="text/javascript"></script>
 <script type="text/javascript">
         require.config({paths: { ecom: 'http://s1.bdstatic.com/r/www/cache/biz/ecom'}});
     </script>
-<script type="text/javascript" src="http://a.baidu.com/ecom?di=574,575&tm=baiduASPT574S,baiduASPT575S&word=%D1%C7%C2%ED%D1%B7%C3%EB%C9%B1&tn=baidujingyan_pg,baidujingyan_pg&asp_refer=http%3A%2F%2Fwww.so.com%2Fs%3Fie%3Dutf-8%26shb%3D1%26src%3D360sou_newhome%26q%3D%25E5%25A6%2582%25E4%25BD%2595%25E5%2588%25B6%25E5%25AE%259A%25E5%2591%25A8%25E6%259C%259F%25E6%2580%25A7%25E7%259A%2584%25E7%25BA%25A6%25E4%25BC%259A%25EF%25BC%258C%25E4%25BC%259A%25E8%25AE%25AE%25E6%258F%2590%25E9%2586%2592" charset="gbk"></script>
+<script type="text/javascript" src="http://a.baidu.com/ecom?di=574,575&tm=baiduASPT574S,baiduASPT575S&word=%BF%AA%B5%EA%CC%D4%B1%A6%CF%D0%D6%C3&tn=baidujingyan_pg,baidujingyan_pg&asp_refer=http%3A%2F%2Fjingyan.baidu.com%2Farticle%2Feae07827847cc31fed54857d.html" charset="gbk"></script>
 <div class="bottom-ads-container" id="bottom-ads-container">
 <div class="bottom-text-ads" id="bottom-text-ads-wrap">
 <script type="text/javascript">BaiduAdsDisplay(575);</script>
@@ -436,7 +427,7 @@
 <div id="wgt-feedback" class="wgt-feedback clearfix">
 <div id="usefull-btn-area" class="btn-area usefull-btn">
 <span class="icon usefull-ico"></span>
-<span id="usefull-num" class="text usefull-num">1</span>
+<span id="usefull-num" class="text usefull-num">0</span>
 <span class="text default-tip">投票</span>
 <span class="text used-tip">已投票</span>
 <span id="a-s" class="a-s" style="display:none;">+1</span>
@@ -550,6 +541,9 @@ document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static
 <h3>作者的经验</h3>
 <ul alog-group="usr-explist">
 <li>
+<a href="/article/e75aca8559c702142fdac67e.html" target="_blank" title="taobao淘宝如何搜索宝贝" log="type:1000,pos:author_title">taobao淘宝如何搜索宝贝</a>
+</li>
+<li>
 <a href="/article/90895e0fef2d6364ed6b0b4c.html" target="_blank" title="美国亚马逊直邮中国购物全攻略" log="type:1000,pos:author_title">美国亚马逊直邮中国购物全攻略</a>
 </li>
 <li>
@@ -559,10 +553,7 @@ document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static
 <a href="/article/d5a880eb90e06413f047cc43.html" target="_blank" title="电话订火车票方法" log="type:1000,pos:author_title">电话订火车票方法</a>
 </li>
 <li>
-<a href="/article/f25ef25463d4ff482d1b8241.html" target="_blank" title="最新方法：电脑上如何登陆微信" log="type:1000,pos:author_title">最新方法：电脑上如何登陆微信</a>
-</li>
-<li>
-<a href="/article/4f7d5712ae2a7f1a21192740.html" target="_blank" title="无线路由器初始设置" log="type:1000,pos:author_title">无线路由器初始设置</a>
+<a href="/article/09ea3ede3a2797c0afde3941.html" target="_blank" title="亚马逊z秒杀 技巧" log="type:1000,pos:author_title">亚马逊z秒杀 技巧</a>
 </li>
 </ul>
 </div>
@@ -571,22 +562,26 @@ document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static
 <div class="usr-explist recommend-topic">
 <h3>内容推荐</h3>
 <ul>
-<div class="rtopic"><h4><a href="http://jingyan.baidu.com/article/495ba8410db24f38b30edec4.html" target="_blank" style="color:#fff">淘米水的7种妙用</a></h4>
-<a href="http://jingyan.baidu.com/article/495ba8410db24f38b30edec4.html" target="_blank"><img data-src="http://jingyan.baidu.com/event/img/140813-6.jpg" alt="淘米水的7种妙用" style="width:250px;" class="lazy-load-img" /></a><br />
+<div class="rtopic"><h4><a href="http://jingyan.baidu.com/article/ab69b270d9c8542ca7189fda.html" target="_blank" style="color:#fff">如何摆脱手机依赖症</a></h4>
+<a href="http://jingyan.baidu.com/article/ab69b270d9c8542ca7189fda.html" target="_blank"><img data-src="http://jingyan.baidu.com/event/img/1409015.jpg" alt="如何摆脱手机依赖症" style="width:250px;" class="lazy-load-img" /></a><br />
 </div>
-<li><a href="http://jingyan.baidu.com/article/9989c74663d76df648ecfe04.html"  target="_blank">怎样玩转信用卡</a><span>86</span><span class="usefulicon"></span></li><li><a href="http://jingyan.baidu.com/article/75ab0bcbf36f48d6864db2c0.html"  target="_blank">化唇妆的金牌小技巧</a><span>29</span><span class="usefulicon"></span></li><li><a href="http://jingyan.baidu.com/article/36d6ed1f34cbd81bcf4883b1.html"  target="_blank">过期酸奶的妙用</a><span>40</span><span class="usefulicon"></span></li><li><a href="http://jingyan.baidu.com/article/6fb756eccfcd44241858fb14.html"  target="_blank">洗衣干净又省水的小窍门</a><span>62</span><span class="usefulicon"></span></li><li><a href="http://jingyan.baidu.com/article/fd8044faffd1a45030137a5b.html"  target="_blank">如何有效缓解眼疲劳</a><span>38</span><span class="usefulicon"></span></li></ul>
+<li><a href="http://jingyan.baidu.com/article/64d05a027ade0bde55f73be6.html"  target="_blank">如何学好英语</a><span>86</span><span class="usefulicon"></span></li><li><a href="http://jingyan.baidu.com/article/f7ff0bfc7da24d2e27bb135d.html"  target="_blank">巧选口红，轻染朱唇</a><span>29</span><span class="usefulicon"></span></li><li><a href="http://jingyan.baidu.com/magazine/6872"  target="_blank">你不知道的iPad技巧</a><span>40</span><span class="usefulicon"></span></li><li><a href="http://jingyan.baidu.com/article/4e5b3e195f649591901e2484.html"  target="_blank">怎样清理台式电脑灰尘</a><span>62</span><span class="usefulicon"></span></li><li><a href="http://jingyan.baidu.com/article/a24b33cd562bbd19fe002b27.html"  target="_blank">怎样做个快乐的胖子</a><span>138</span><span class="usefulicon"></span></li></ul>
 </div>
 </div>
 <div class="aside-pro-container">
 <div class="wgt-cms-banner">
 <div class="cms-slide-wrap" id="cms-slide-wrap">
 <div class="cms-slide-img" id="cms-slide-img">
-<a target="_blank" log="type:cmsbanner,location:qb,menu:1" href="http://jingyan.baidu.com/user/recruit"  rel="nofollow">
+<a target="_blank" log="type:cmsbanner,location:qb,menu:1" href="http://jingyan.baidu.com/activity/return"  rel="nofollow">
+<img data-src="http://jingyan.baidu.com/event/img/wzgl250X85.jpg" alt="王者归来" class="lazy-load-img"  />
+</a>
+<a target="_blank" log="type:cmsbanner,location:qb,menu:2" href="http://jingyan.baidu.com/user/recruit"  rel="nofollow" style="display:none;">
 <img data-src="http://jingyan.baidu.com/event/img/zm-qb.jpg" alt="招募" class="lazy-load-img"  />
 </a>
 </div>
 <div class="cms-slide-btn" id="cms-slide-btn">
 <a href="javascript:;" hidefocus="true" class="sli-btn on" rel="nofollow">&bull;</a>
+<a href="javascript:;" hidefocus="true" class="sli-btn" rel="nofollow">&bull;</a>
 </div>
 </div>
 </div>
@@ -608,11 +603,11 @@ document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static
 <h2 class="page-column">热门杂志</h2>
 <div class="page-column">
 <ul class="clearfix" alog-group="magzine-list">
-<li class="first-li"><div class="m-cv"><img class="lazy-load-img" data-src="http://h.hiphotos.baidu.com/exp/whcrop=160,120/sign=de1e2b2acb177f3e1061aa4f1fbf06f6/bd315c6034a85edf826747bf4b540923dc547546.jpg" /><span class="m-bg"></span><span>第1期</span></div><strong>房屋装修全攻略</strong><div class="m-sn"><span></span>749次分享</div><a target="_blank" log="type:5003" href="/magazine/18610"></a></li>
+<li class="first-li"><div class="m-cv"><img class="lazy-load-img" data-src="http://h.hiphotos.baidu.com/exp/whcrop=160,120/sign=de1e2b2acb177f3e1061aa4f1fbf06f6/bd315c6034a85edf826747bf4b540923dc547546.jpg" /><span class="m-bg"></span><span>第1期</span></div><strong>房屋装修全攻略</strong><div class="m-sn"><span></span>755次分享</div><a target="_blank" log="type:5003" href="/magazine/18610"></a></li>
 <li><div class="m-cv"><img class="lazy-load-img" data-src="http://g.hiphotos.baidu.com/exp/whcrop=160,120/sign=b5d21e17d358ccbf1be9e37876a8810f/8435e5dde71190ef70ca257acc1b9d16fdfa6065.jpg" /><span class="m-bg"></span><span>第2期</span></div><strong>愚您同乐</strong><div class="m-sn"><span></span>72次分享</div><a target="_blank" log="type:5003" href="/magazine/18000"></a></li>
-<li><div class="m-cv"><img class="lazy-load-img" data-src="http://d.hiphotos.baidu.com/exp/whcrop=160,120/sign=4e9da342950a304e5277f6b8beb89ab7/95eef01f3a292df5537c7b53be315c6034a8733d.jpg" /><span class="m-bg"></span><span>第9期</span></div><strong>实用房子装修攻略</strong><div class="m-sn"><span></span>521次分享</div><a target="_blank" log="type:5003" href="/magazine/15911"></a></li>
+<li><div class="m-cv"><img class="lazy-load-img" data-src="http://d.hiphotos.baidu.com/exp/whcrop=160,120/sign=4e9da342950a304e5277f6b8beb89ab7/95eef01f3a292df5537c7b53be315c6034a8733d.jpg" /><span class="m-bg"></span><span>第9期</span></div><strong>实用房子装修攻略</strong><div class="m-sn"><span></span>529次分享</div><a target="_blank" log="type:5003" href="/magazine/15911"></a></li>
 <li><div class="m-cv"><img class="lazy-load-img" data-src="http://a.hiphotos.baidu.com/exp/whcrop=160,120/sign=93d9535aa38b87d65017fd5d68781509/faedab64034f78f0d7f37b987b310a55b2191ce4.jpg" /><span class="m-bg"></span><span>第1期</span></div><strong>欢度春节 合家团圆</strong><div class="m-sn"><span></span>37次分享</div><a target="_blank" log="type:5003" href="/magazine/15550"></a></li>
-<li><div class="m-cv"><img class="lazy-load-img" data-src="http://d.hiphotos.baidu.com/exp/whcrop=160,120/sign=ea18ab089a22720e7b9bb4b814bb3777/a8014c086e061d95e994395279f40ad163d9ca8e.jpg" /><span class="m-bg"></span><span>第1期</span></div><strong>年货选购技巧</strong><div class="m-sn"><span></span>177次分享</div><a target="_blank" log="type:5003" href="/magazine/15927"></a></li>
+<li><div class="m-cv"><img class="lazy-load-img" data-src="http://d.hiphotos.baidu.com/exp/whcrop=160,120/sign=ea18ab089a22720e7b9bb4b814bb3777/a8014c086e061d95e994395279f40ad163d9ca8e.jpg" /><span class="m-bg"></span><span>第1期</span></div><strong>年货选购技巧</strong><div class="m-sn"><span></span>178次分享</div><a target="_blank" log="type:5003" href="/magazine/15927"></a></li>
 </ul>
 </div>
 </div>
@@ -664,7 +659,7 @@ document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static
 		"maxFollowVote": 9999999,
 		"ucFollowing": '/user/nuc/following',
 		"ucFavorexp": '/user/nuc/favorexp',
-		"eid": '09ea3ede3a2797c0afde3941',
+		"eid": 'eae07827847cc31fed54857d',
 		"comment": '/comment/',
 		"hi": 'http://hiphotos.baidu.com/exp/abpic/item/',
 		"COMMENT_MAX_LEN" : "600",
@@ -672,7 +667,7 @@ document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static
 		"isFavor":0,
 		"expFavorNum": 0,
 		"ucFavorexp": '/user/nuc/favorexp',
-		"title": '亚马逊z秒杀 技巧',
+		"title": '不用开店在淘宝卖自己的二手闲置产品',
 		"logo": 'http://img.baidu.com/img/iknow/exp/logo_uui.jpg',
 		"feedbackSuc": 0,
 		"feedbackFail": 0,
@@ -766,7 +761,7 @@ document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static
 </div>
 <div class="topbtns">
 <a class="topbtn votebtn" href="#">
-<span id="top-vote-num">1</span>
+<span id="top-vote-num">0</span>
 </a>
 <a id="top-favo-btn" class="topbtn favobtn"></a>
 <a class="topbtn commbtn" href="#exp-comment"></a>
@@ -795,9 +790,10 @@ document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static
 </div>
 
 </body><script type="text/javascript" src="http://exp.bdstatic.com/static/common/lib/mod_034990c.js"></script>
-<script type="text/javascript">require.resourceMap({"res":{"common:widget/lib/tangram/ui/Decorator/Decorator.js":{"url":"http://exp.bdstatic.com/static/common/widget/lib/tangram/ui/Decorator/Decorator_34242b8.js","pkg":"common:p1","deps":["common:widget/lib/tangram/base/base.js","common:widget/lib/tangram/uiBase/uiBase.js"]},"common:widget/lib/tangram/base/base.js":{"url":"http://exp.bdstatic.com/static/common/widget/lib/tangram/base/base_e37cc01.js","pkg":"common:p0"},"common:widget/userbar/userbar.js":{"url":"http://exp.bdstatic.com/static/common/widget/userbar/userbar_79b53ea.js","pkg":"common:p2","deps":["common:widget/lib/tangram/base/base.js","common:widget/lib/fis/event/event.js","common:widget/ui/msg/msg.js"]},"article:widget/exp-title/exp-title.js":{"url":"http://exp.bdstatic.com/static/article/widget/exp-title/exp-title_180fa1f.js","pkg":"article:p0","deps":["common:widget/lib/tangram/base/base.js","common:widget/ui/ajax/ajax.js"]}}});</script><script type="text/javascript" src="http://exp.bdstatic.com/static/common/pkg/common_widget_2485b86.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"common:widget/lib/tangram/ui/Decorator/Decorator.js":{"url":"http://exp.bdstatic.com/static/common/widget/lib/tangram/ui/Decorator/Decorator_34242b8.js","pkg":"common:p1","deps":["common:widget/lib/tangram/base/base.js","common:widget/lib/tangram/uiBase/uiBase.js"]},"common:widget/lib/tangram/base/base.js":{"url":"http://exp.bdstatic.com/static/common/widget/lib/tangram/base/base_e37cc01.js","pkg":"common:p0"},"activity:widget/ui/redbox/redbox.js":{"url":"http://exp.bdstatic.com/static/activity/widget/ui/redbox/redbox_58a8c80.js","pkg":"activity:p1","deps":["common:widget/lib/tangram/base/base.js","common:widget/ui/dialog/dialog.js"]},"common:widget/userbar/userbar.js":{"url":"http://exp.bdstatic.com/static/common/widget/userbar/userbar_79b53ea.js","pkg":"common:p2","deps":["common:widget/lib/tangram/base/base.js","common:widget/lib/fis/event/event.js","common:widget/ui/msg/msg.js"]},"article:widget/exp-title/exp-title.js":{"url":"http://exp.bdstatic.com/static/article/widget/exp-title/exp-title_180fa1f.js","pkg":"article:p0","deps":["common:widget/lib/tangram/base/base.js","common:widget/ui/ajax/ajax.js"]}}});</script><script type="text/javascript" src="http://exp.bdstatic.com/static/common/pkg/common_widget_10ff2fd.js"></script>
 <script type="text/javascript" src="http://exp.bdstatic.com/static/common/pkg/common_framework_440df45.js"></script>
 <script type="text/javascript" src="http://exp.bdstatic.com/static/common/pkg/home_framework_499c91a.js"></script>
+<script type="text/javascript" src="http://exp.bdstatic.com/static/activity/pkg/return_8da128d.js"></script>
 <script type="text/javascript" src="http://exp.bdstatic.com/static/article/pkg/article_f56c0a0.js"></script>
 <script type="text/javascript" src="http://exp.bdstatic.com/static/common/widget/blue-book-ad/blue-book-ad_187213b.js"></script>
 <script type="text/javascript">!function(){            //设置登录按钮功能 
@@ -984,7 +980,7 @@ document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static
 
             T.sio.callByBrowser('http://cbjs.baidu.com/js/o.js', function(){
             	BAIDU_CLB_addOrientation('jylistid',"56");
-            	BAIDU_CLB_addOrientation('jyarticleid',"3199087");
+            	BAIDU_CLB_addOrientation('jyarticleid',"3206067");
 
 				BAIDU_CLB_fillSlotAsync("706066", "aside-pic-ads");
 				BAIDU_CLB_fillSlotAsync("706067", "bottom-pic-ads");
@@ -1029,6 +1025,6 @@ document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static
 
 		navbar.init();
 	});
-}();</script></html><!--18056892193844624650091421-->
-<script> var _trace_page_logid = 1805689219; </script><!--18056943021025849866091421-->
-<script> var _trace_page_logid = 1805694302; </script>
+}();</script></html><!--30806726621309692170091611-->
+<script> var _trace_page_logid = 3080672662; </script><!--30806833750974928394091611-->
+<script> var _trace_page_logid = 3080683375; </script>

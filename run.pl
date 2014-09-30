@@ -3,16 +3,27 @@ use strict;
 use MimicUser;
 use threads;
 #user number parallel
-my $userNumber = 10;
+my $ipNumber= $ARGV[0];
+my $userNumber = $ARGV[1];
+print "ipNumber:${ipNumber};userNumber:${userNumber}"."\n";
 open( IPFILE, 'ip.data');
 my @ips = <IPFILE>;
+close(IPFILE);
 my $threadNum=0;
 my @threads;
 my $size = @ips;
+my %taken;
 #foreach my $ip ( @ips ){
-while( 1 ) {
+while( $ipNumber > 0 ) {
 	my $idx = int( rand( $size ));
 	my $ip = $ips[$idx];
+	if( exists $taken{$ip} ){
+		sleep(2);
+		next;
+	}else{
+		$taken{$ip}=1;
+	}
+	$ipNumber --;
 	my $threadid = threads->new(\&userthread, $ip);
 	push( @threads, $threadid);
 	$threadNum += 1;
